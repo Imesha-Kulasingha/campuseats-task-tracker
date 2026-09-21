@@ -1,6 +1,6 @@
 # CampusEats Task Tracker
 
-Welcom to the CampusEats task tracker! This project helps students manage thier daily tasks and orders.
+Welcome to the CampusEats task tracker! This project helps students to manage thier daily tasks and orders.
 
 ## Features
 - Add new tasks
